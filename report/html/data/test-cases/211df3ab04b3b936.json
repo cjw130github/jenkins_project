@@ -1,0 +1,60 @@
+{
+  "uid" : "211df3ab04b3b936",
+  "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_001",
+  "fullName" : "scripts.D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_001",
+  "historyId" : "5acd3555448ece762445bd53686b84c1",
+  "time" : {
+    "start" : 1559286354953,
+    "stop" : 1559286355016,
+    "duration" : 63
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5UCNPIT"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3084-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_001"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "211df3ab04b3b936.json",
+  "parameterValues" : [ ]
+}

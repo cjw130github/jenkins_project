@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559286354953" stop="1559286355110">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559286354953" status="passed" stop="1559286355016">
+      <name>D:\移动自动化练习\jenkins_案例\scripts.test_login.TestLogin.test_hello_001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3084-MainThread"/>
+        <label name="host" value="DESKTOP-5UCNPIT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559286355016" status="failed" stop="1559286355110">
+      <name>D:\移动自动化练习\jenkins_案例\scripts.test_login.TestLogin.test_hello_002</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x04309450&gt;
+
+    def test_hello_002(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_login.py:5: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3084-MainThread"/>
+        <label name="host" value="DESKTOP-5UCNPIT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559286355110" status="passed" stop="1559286355110">
+      <name>D:\移动自动化练习\jenkins_案例\scripts.test_login.TestLogin.test_hello_003</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3084-MainThread"/>
+        <label name="host" value="DESKTOP-5UCNPIT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

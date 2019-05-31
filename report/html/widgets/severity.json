@@ -1,0 +1,31 @@
+[ {
+  "uid" : "2891a2c752556b9d",
+  "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_003",
+  "time" : {
+    "start" : 1559286355110,
+    "stop" : 1559286355110,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "211df3ab04b3b936",
+  "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_001",
+  "time" : {
+    "start" : 1559286354953,
+    "stop" : 1559286355016,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5267ba0018b88120",
+  "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_002",
+  "time" : {
+    "start" : 1559286355016,
+    "stop" : 1559286355110,
+    "duration" : 94
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

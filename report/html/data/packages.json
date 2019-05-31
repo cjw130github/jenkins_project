@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_001",
+      "uid" : "211df3ab04b3b936",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559286354953,
+        "stop" : 1559286355016,
+        "duration" : 63
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_002",
+      "uid" : "5267ba0018b88120",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1559286355016,
+        "stop" : 1559286355110,
+        "duration" : 94
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\移动自动化练习\\jenkins_案例\\scripts.test_login.TestLogin.test_hello_003",
+      "uid" : "2891a2c752556b9d",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559286355110,
+        "stop" : 1559286355110,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}
